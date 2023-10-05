@@ -71,7 +71,7 @@ author:
 
 footer:
   links:
-     - label: "LinkedIn"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linked-square"
       url: "https://www.linkedin.com/in/steven-vu-944763270/" 
     - label: "GitHub"
