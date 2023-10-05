@@ -61,9 +61,10 @@ author:
   name   : "Steven Vu"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Computer Science student at Oregon State University."
+  location : "Atlanta, GA"
   links:
     - label: "LinkedIn"
-      icon: "fa fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/steven-vu-944763270/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -72,7 +73,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/steven-vu-944763270/" 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
