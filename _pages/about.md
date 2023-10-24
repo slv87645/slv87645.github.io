@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "About"
+title: "About me"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hey, I'm Steven! Welcome to my personal corner of the internet where you can learn about me and what I'm doing. Currently, I'm studying Computer Science at Oregon State University with aspirations of becoming a software engineer. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+In my personal time, I enjoy a wide variety of activities. I'm a passionate tennis player and a huge NBA/NFL nerd when it comes to stats and analytics. When I'm not being active, I indulge in board/video games, puzzles, and going down wikipedia rabbit holes.
