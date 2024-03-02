@@ -1,8 +1,7 @@
 ---
 title: "Projects"
 permalink: /projects/
-layout: collection
-collection: portfolio
+layout: posts
 author_profile: true
 ---
 This section of the site is currently under construction.
