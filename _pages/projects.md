@@ -4,5 +4,4 @@ permalink: /projects/
 layout: posts
 author_profile: true
 ---
-This section of the site is currently under construction.
-Please visit my [github] (https://github.com/slv87645) 
+Projects that I learned a lot from completing whether they were for school or personal.
