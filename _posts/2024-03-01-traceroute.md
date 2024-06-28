@@ -8,6 +8,7 @@ For my Intro to Networks class, one of our largest projects was creating our ver
 Traceroute is a computer networking diagnostic tool which allows a user to trace the route from a host running the traceroute program to any other host in the world.
 
 ![Traceroute to www.google.com](/assets/images/TR1.jpg)
+
 ![Traceroute to www.google.com](/assets/images/TR2.jpg)
 
 **Takeaway**
