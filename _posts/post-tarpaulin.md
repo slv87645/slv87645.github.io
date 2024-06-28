@@ -12,4 +12,6 @@ The Tarpaulin REST API has 13 endpoints, most of which are protected.
 The protected endpoints require a valid JWT in the request as Bearer token in the Authorization header. Each user in Tarpaulin has one of three roles: admin, instructor, and student.
 
 Functionality:
+
+
 ![routes](/assets/images/TpRoutes.jpg)
